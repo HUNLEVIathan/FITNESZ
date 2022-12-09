@@ -1,0 +1,34 @@
+#sarga{
+    color: yellow;
+}
+.kek{
+    color: lightblue;
+}
+#bal{
+    float: left;
+    margin-left: 50px;
+}
+#jobb{
+    float: right;
+}
+nav{
+    text-align: center;
+    background: blue;
+}
+header{
+    text-align: center;
+    background-image: url(kek_eg.jpg)
+}
+a{
+    color: white;
+}
+#wrapper{
+    margin: auto;
+    width: 600px;
+    background: white;
+}
+body{
+}
+main{
+    clear: right;
+}
